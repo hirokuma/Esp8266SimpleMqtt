@@ -1,0 +1,6 @@
+MQTT publisher for ESP8266 RTOS
+====
+* iot.eclipse.org:1883
+* publish per 10seconds.
+* SmartConfig starts if status isn't connect in 30seconds.
+
